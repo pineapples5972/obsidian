@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/docker/introduction-to-yaml/","tags":["docker","docker_notes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/docker/introduction-to-yaml/","tags":["#DevOps","#Docker","Concepts","Configuration_Language"],"noteIcon":""}
 ---
 
 Format: Key Value Pair
