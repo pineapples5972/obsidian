@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/error-journal/"}
+{"dg-publish":true,"permalink":"/unsorted/error-journal/","noteIcon":""}
 ---
 
 ### Unable to Update CentOS7
