@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-concepts/","tags":["devops","terraform"]}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-concepts/","tags":["devops","terraform"],"noteIcon":""}
 ---
 
 References: 
