@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/resources-and-links/"}
+{"dg-publish":true,"permalink":"/dev-ops/resources-and-links/","noteIcon":""}
 ---
 
 
