@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/random-links/"}
+{"dg-publish":true,"permalink":"/unsorted/random-links/","noteIcon":""}
 ---
 
 - DevSecOps Project - https://www.youtube.com/watch?v=g8X5AoqCJHc
