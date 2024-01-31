@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/error-journal/","noteIcon":""}
+{"dg-publish":true,"permalink":"/unsorted/error-journal/","tags":["#Unsorted"],"noteIcon":""}
 ---
 
 ### Unable to Update CentOS7
@@ -28,7 +28,7 @@ sudo sed -i 's|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org
 ### Communicate different pods using Podman
 
 **OS:** Arch Linux
-**Tags:** #podman #docker #network
+**Tags:** #podman #Docker #network
 **References:** https://stackoverflow.com/questions/71141056/communicate-different-pods-using-podman
 
 **Description:**
