@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-commands/"}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-commands/","noteIcon":""}
 ---
 
 #terraform #commands 
@@ -58,11 +58,6 @@ To destroy the resources and clean the infrastructure we can use this command.
 `terraform graph`
 apt install graphviz
 `terraform graph | dot -Tsvg > graph.svg`
-
-	![[Pasted image 20231208201331.png\|Pasted image 20231208201331.png]]
-	
-
-
 
 
 The `terraform apply` failed in spite of our validation working! This is because the validate command only carries out a general verification of the configuration. It validated the resource block and the argument syntax but not the `values` the arguments expect for a specific resource!
