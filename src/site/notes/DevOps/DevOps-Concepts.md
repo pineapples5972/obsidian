@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/dev-ops-concepts/"}
+{"dg-publish":true,"permalink":"/dev-ops/dev-ops-concepts/","noteIcon":""}
 ---
 
 What is DevOps?
