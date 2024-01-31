@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/installing-terraform/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/installing-terraform/","tags":["Terraform","#Installations","DevOps"],"noteIcon":""}
 ---
 
 
