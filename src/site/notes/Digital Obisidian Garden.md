@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-obisidian-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-obisidian-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ### Docker
@@ -14,6 +14,7 @@
 - [[DevOps/Projects/Nginx-Web-Hosting\|Nginx-Web-Hosting]]
 - [[DevOps/Projects/Voting-App\|Voting-App]]
 - [[DevOps/Projects/Yt-local\|Yt-local]]
+- [[DevOps/Projects/NodeJs App with Woodpecker-CI\|NodeJs App with Woodpecker-CI]]
 ### Terraform
 - [[DevOps/Terraform/HCL-Basics\|HCL-Basics]]
 - [[DevOps/Terraform/Installing-Terraform\|Installing-Terraform]]
