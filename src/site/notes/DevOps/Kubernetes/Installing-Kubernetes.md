@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/kubernetes/installing-kubernetes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/kubernetes/installing-kubernetes/","tags":["Kubernetes","#Installations","DevOps"],"noteIcon":""}
 ---
 
 - [ ] Install kubectl utillity
