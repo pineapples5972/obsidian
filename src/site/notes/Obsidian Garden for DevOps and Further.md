@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-garden-for-dev-ops-and-further/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian-garden-for-dev-ops-and-further/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 ![img](http://static.planetminecraft.com/files/resource_media/screenshot/1134/2011-08-24_154745_353846.jpg)
