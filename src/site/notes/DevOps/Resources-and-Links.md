@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/resources-and-links/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/resources-and-links/","tags":["DevOps","#Resources_Links"],"noteIcon":""}
 ---
 
 
