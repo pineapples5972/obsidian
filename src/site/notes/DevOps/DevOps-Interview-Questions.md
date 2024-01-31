@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/dev-ops-interview-questions/","tags":["devops","devops_interview_questions","docker","#interview_questions"]}
+{"dg-publish":true,"permalink":"/dev-ops/dev-ops-interview-questions/","tags":["devops","devops_interview_questions","docker","#interview_questions"],"noteIcon":""}
 ---
 
 
