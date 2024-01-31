@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/hcl-basics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/hcl-basics/","tags":["Terraform","DevOps","Concepts","#Configuration_Language"],"noteIcon":""}
 ---
 
 local-file-type
