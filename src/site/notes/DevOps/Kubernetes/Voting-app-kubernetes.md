@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/kubernetes/voting-app-kubernetes/"}
+{"dg-publish":true,"permalink":"/dev-ops/kubernetes/voting-app-kubernetes/","noteIcon":""}
 ---
 
 ## Running as services and pods
