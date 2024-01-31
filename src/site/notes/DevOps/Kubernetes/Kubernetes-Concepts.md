@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/kubernetes/kubernetes-concepts/"}
+{"dg-publish":true,"permalink":"/dev-ops/kubernetes/kubernetes-concepts/","noteIcon":""}
 ---
 
 Kubernetes can use to deploy more than one instance of containers using its cli.
