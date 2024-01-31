@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/hcl-basics/"}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/hcl-basics/","noteIcon":""}
 ---
 
 local-file-type
