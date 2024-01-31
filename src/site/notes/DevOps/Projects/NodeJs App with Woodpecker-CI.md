@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/projects/node-js-app-with-woodpecker-ci/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/projects/node-js-app-with-woodpecker-ci/","tags":["Projects","#CICD","#Woodpecker-CI","DevOps"],"noteIcon":""}
 ---
 
 Project Link: https://git.exozy.me/nvpie/jenkins-projects
