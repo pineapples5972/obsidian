@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/installing-terraform/"}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/installing-terraform/","noteIcon":""}
 ---
 
 
@@ -15,4 +15,6 @@ After successfull installing you can check if its running
 `terraform version`
 
 Its supported on various platform
+
+Linux, Windows, Mac
 
