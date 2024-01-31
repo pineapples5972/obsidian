@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/tcs-dev-ops-interview-questions/"}
+{"dg-publish":true,"permalink":"/dev-ops/tcs-dev-ops-interview-questions/","noteIcon":""}
 ---
 
 - How do you handle the merge conflicts in Git?
