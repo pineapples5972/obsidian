@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/projects/yt-local/"}
+{"dg-publish":true,"permalink":"/dev-ops/projects/yt-local/","noteIcon":""}
 ---
 
 original project link - https://git.sr.ht/~heckyel/yt-local
