@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/docker/docker-commands/","tags":["docker_notes","docker_commands","docker","AWS"]}
+{"dg-publish":true,"permalink":"/dev-ops/docker/docker-commands/","tags":["docker_notes","docker_commands","docker","AWS"],"noteIcon":""}
 ---
 
 
