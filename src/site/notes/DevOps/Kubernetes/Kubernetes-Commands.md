@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/kubernetes/kubernetes-commands/"}
+{"dg-publish":true,"permalink":"/dev-ops/kubernetes/kubernetes-commands/","noteIcon":""}
 ---
 
 #### Pod commands 
