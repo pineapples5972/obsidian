@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/projects/yt-local/","noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/projects/yt-local/","tags":["Projects","Docker","DevOps"],"noteIcon":""}
 ---
 
 original project link - https://git.sr.ht/~heckyel/yt-local
