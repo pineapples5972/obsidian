@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/docker/docker-interview-questions-by-chat-gpt/","tags":["interview_questions","docker_notes","docker_interview_questions","devops_interview_questions","devops","docker"]}
+{"dg-publish":true,"permalink":"/dev-ops/docker/docker-interview-questions-by-chat-gpt/","tags":["interview_questions","docker_notes","docker_interview_questions","devops_interview_questions","devops","docker"],"noteIcon":""}
 ---
 
 ![Pasted image 20231006134325.png](/img/user/metadata/attachments/Images/Pasted%20image%2020231006134325.png)
