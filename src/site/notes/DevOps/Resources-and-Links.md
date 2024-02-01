@@ -15,6 +15,17 @@
 - [ ] https://github.com/rohitg00/DevOpsCommunity
 - [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
 - [ ] [Jenkins - Project](https://medium.com/@rajani103/jenkins-cicd-with-github-integration-c9790cd4d6fb)
+- [ ] [Devops.com](https:/devops.com)
+- [ ] [snow-dev.com/](https://snow-dev.com/)
+- [ ] https://github.com/chassing/linux-sysadmin-interview-questions
+- [ ] [Github | Free Certification](https://github.com/cloudcommunity/Free-Certifications)
+- [ ] [Cloud Free Tier Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+- [ ] [postgresql docker setup](https://www.baeldung.com/ops/postgresql-docker-setup)
+- [ ] [Learn git GUI way](https://learngitbranching.js.org/)
+- [ ] [stroobants.dev](https://stroobants.dev/)
+- [ ] [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
+- [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
+- [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
 
 
 ## YT RESOURCE
@@ -30,6 +41,7 @@
 - [ ] [Best Games to Teach you Code](https://www.youtube.com/watch?v=A8SythA_P_U)
 - [ ] [DevOps Course for beginners from Freecodecamp.org](https://youtu.be/j5Zsa_eOXeY)
 - [ ] [Jenkins Mastery in 60 min](https://www.youtube.com/watch?v=GnlJfu1vfGE)
+- [ ] [GUI EC2 Instance](https://www.youtube.com/watch?v=foCG_mH8bxk)
 
 
 ## Resume Resources
@@ -40,10 +52,10 @@
 
 ## Job Links
 
-- [ ] https://www.remoterocketship.com/
-- [ ] https://37signals.com/
-- [ ] [Awesome Remote Work websites](https://github.com/hugo53/awesome-RemoteWork)
-- [ ] [Cybersecurity FREE INTERNSHIP](https://docs.google.com/forms/d/e/1FAIpQLSdddr_JaCY6zRFfm2dVMDm2tFmW1q3l-Oo5S2zoNeUKDV_CRw/viewform)
+- [ ] [RemoteRocketship](https://www.remoterocketship.com/)
+- [ ] [37signals](https://37signals.com/)
+- [ ] [Github | awesome-remotework](https://github.com/hugo53/awesome-RemoteWork)
+- [ ] [Google form | Cybersecurity FREE INTERNSHIP](https://docs.google.com/forms/d/e/1FAIpQLSdddr_JaCY6zRFfm2dVMDm2tFmW1q3l-Oo5S2zoNeUKDV_CRw/viewform)
 
 
 ## Hands On Projects
@@ -53,6 +65,15 @@
 - [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [ ] [DevOps Projects](https://github.com/Abhinav-26/DevOps-Projects)
 - [ ] [anton putra](https://github.com/antonputra/tutorials/blob/main/docs/contents.md)
+- [ ] [KillerKoda](https://killerkoda.com)
+
+
+## Self Hosting and Home Server Stuff
+
+- [ ] [Youtube | The $0 Home Server](https://www.youtube.com/watch?v=IuRWqzfX1ik)
+- [ ] [Youtube | Can You Use a Laptop as a Home Server?](https://www.youtube.com/watch?v=zzRo0unYOeE)
+- [ ] [Youtube | Free Web Hosting That ACTUALLY Works in 2023](https://www.youtube.com/watch?v=rrHrcRMRTtQ)
+- [ ] [Youtube | Building A DIY NAS On A Budget - TrueNAS Scale](https://www.youtube.com/watch?v=jf_5FaVFnrU)
 
 
 
