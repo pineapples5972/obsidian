@@ -1,11 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/error-journal/","tags":["#Unsorted"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/unsorted/error-journal/","tags":["#Unsorted","#solutions"],"noteIcon":""}
 ---
 
+### Nix pkg unable to install or delete packages
+**OS**: Arch Linux 
+**Tags**: #linux #nix #packages
+
+**Description**: Error: this derivation has bad 'meta.outputsToInstall/Uninstall' 
+**References**: https://discourse.nixos.org/t/error-this-derivation-has-bad-meta-outputstoinstall/20019 
+
+**Reproduce:**
+After trying to install or uninstall a package:
+`nix-env -e calibre`
+or trying to upgrade a package:
+`nix-env -u --always calibre`
+
+would see this error
+`Error: this derivation has bad 'meta.outputsToInstall/Uninstall`
+
+**Solution**: 
+save list of packages with `nix-env -q > cur.gen`
+switch to pretty old generation like 1 month ago `nix-env --list-generations` and `nix-env --switch-generation 50` 
+run `nix-channel --update` and `nix-env -u` uninstall the packages that no longer needed and install the packages that saved at start.
+
+---
 ### Unable to Update CentOS7
 **OS:** CentOS 7 or 8
 **Tags:** #linux #CentOS #Update #YUM
-
 **Description:** Cant Update system
 **References:** https://stackoverflow.com/questions/70963985/error-failed-to-download-metadata-for-repo-appstream-cannot-prepare-internal
 
@@ -50,7 +71,6 @@ podman run -it --detach --pod $POD2 --name $CONTAINER2 --network $NETWORK_NAME i
 
 ---
 ### Unable to Connect to EC2 instance with RDP 
-
 **Type:** Fixed RDP EC2 Instance cert error
 **OS:** Amazon Linux (Fedora base)
 **Tags:** #AWS, #cloud, #EC2, #RDP 
