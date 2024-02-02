@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/interview-question/docker-interview-questions-by-chat-gpt/","tags":["Interview_questions","DevOps"],"noteIcon":""}
 ---
 
-These are #Interview_questions by chatgpt for more refer: [[Interview-Question/DevOps-Interview-Questions\|DevOps-Interview-Questions]]
-
+<h1><img src="https://duckduckgo.com/i/c7ce9712.png" width="30px" height="32px" style="margin: 0;"> DevOps Interview of  by ChatGPT!</h1>
 1. **What is DevOps, and what are its key principles?**
 Answer: DevOps is a set of practices and cultural philosophies that aim to improve collaboration
 between development and operations teams. Its key principle include automation, continuous integration, continuous delivery, and a focus on culture and collaboration.
