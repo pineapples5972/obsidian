@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-commands/","tags":["Terraform","DevOps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/dev-ops/terraform/terraform-commands/","tags":["Terraform","DevOps","Commands"],"noteIcon":""}
 ---
 
-#Terraform #Commands 
 
 ![Pasted image 20240117094903.png](/img/user/metadata/attachments/Images/Pasted%20image%2020240117094903.png)
 ### Init
