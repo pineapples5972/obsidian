@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry"]}
 ---
+
 
 <img src="https://wallpapercave.com/wp/wp11688013.jpg">
 
@@ -43,4 +44,3 @@
 ### 🎋Unsorted
 - [[Unsorted/Error-Journal\|Error-Journal]]
 - [[Unsorted/Nix Package Manager\|Nix Package Manager]]
- 
