@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry"]}
 ---
 
-
 <img src="https://wallpapercave.com/wp/wp11688013.jpg">
 
 # DevOps Study Garden
@@ -35,12 +34,13 @@
 - [[DevOps/Projects/Yt-local\|Yt-local]]
 - [[DevOps/Projects/NodeJs App with Woodpecker-CI\|NodeJs App with Woodpecker-CI]]
 ### 💼Interview Questions
-- [[Interview-Question/TCS DevOps Interview Questions\|TCS DevOps Interview Questions]]
-- [[Interview-Question/Docker-Interview-Questions-by-ChatGPT\|Docker-Interview-Questions-by-ChatGPT]]
-- [[Interview-Question/DevOps-Interview-Questions\|DevOps-Interview-Questions]]
+- [[DevOps/TCS DevOps Interview Questions\|TCS DevOps Interview Questions]]
+- [[DevOps/Docker/Docker-Interview-Questions-by-ChatGPT\|Docker-Interview-Questions-by-ChatGPT]]
+- [[DevOps/DevOps-Interview-Questions\|DevOps-Interview-Questions]]
 - [[Interview-Question/MCQs\|MCQs]]
 ### 🗃️Links and Resources
 - [[DevOps/Resources-and-Links\|Resources-and-Links]]
 ### 🎋Unsorted
 - [[Unsorted/Error-Journal\|Error-Journal]]
 - [[Unsorted/Nix Package Manager\|Nix Package Manager]]
+ 
