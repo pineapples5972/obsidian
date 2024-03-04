@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry","gardenEntry"]}
 ---
 
 <img src="https://wallpapercave.com/wp/wp11688013.jpg">
