@@ -8,8 +8,6 @@
 
 *What is DevOps! Umm let me think its a Philosophy or Culture ...... wait its a methodology!*
 
-## CyberSecurity
-- [[Cybersecurity/Directory Listing\|Directory Listing]]
 ## DevOps 
 
 ### 🛳️Docker
