@@ -6,7 +6,7 @@
 ![Pasted image 20240324205628.png](/img/user/Pasted%20image%2020240324205628.png)
 # SysAdmin and DevOps Study Notes
 
->Of the journey from local to cloud I leave thy notes for those who needs ladder to climb to thy destiny.
+>Of the journey from local to cloud I leave my notes for those who needs ladder to climb to thy destiny.
 
 ## DevOps 
 
