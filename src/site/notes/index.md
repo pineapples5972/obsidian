@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/index/","tags":["DevOps","#Docker","#Kubernetes","#Projects","#Terraform","#Interview_questions","Resources_Links","Unsorted","#Installations","#Concepts","CICD","Commands","gardenEntry"]}
 ---
 
-<img src="https://wallpapercave.com/wp/wp11688013.jpg">
-
+<!--img src="https://wallpapercave.com/wp/wp11688013.jpg" -->
+![Pasted image 20240324205628.png](/img/user/Pasted%20image%2020240324205628.png)
 # SysAdmin and DevOps Study Notes
 
 >Of the journey from local to cloud I leave thy notes for those who needs ladder to climb to thy destiny.
