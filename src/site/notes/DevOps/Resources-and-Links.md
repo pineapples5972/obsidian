@@ -26,6 +26,7 @@
 - [ ] [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [All DevOps days + projects](https://medium.com/@saurabhdahibhate50)
+- [ ] https://github.com/dfuentes87/linux-sysadmin-questions
 
 
 ## YT RESOURCE
