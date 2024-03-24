@@ -4,43 +4,16 @@
 
 <img src="https://wallpapercave.com/wp/wp11688013.jpg">
 
-# DevOps Study Garden
+# SysAdmin and DevOps Study Notes
 
-*What is DevOps! Umm let me think its a Philosophy or Culture ...... wait its a methodology!*
+>Of the journey from local to cloud I leave thy notes for those who needs ladder to climb to thy destiny.
 
 ## DevOps 
 
-### 🛳️Docker
-- [[DevOps/Docker/Docker Concepts\|Docker Concepts]]
-- [[DevOps/Docker/Docker Installation\|Docker Installation]]
-- [[DevOps/Docker/Docker-Commands\|Docker-Commands]]
-- [[DevOps/Docker/Introduction-to-YAML\|Introduction-to-YAML]] 
-### <img src="https://duckduckgo.com/i/2ecee014.png" alt="My Image" width="30" height="30" style="margin: 0; display: initial;">Kubernetes
-- [[DevOps/Kubernetes/Installing-Kubernetes\|Installing-Kubernetes]]
-- [[DevOps/Kubernetes/Kubernetes-Commands\|Kubernetes-Commands]]
-- [[DevOps/Kubernetes/Kubernetes-Concepts\|Kubernetes-Concepts]]
-### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F519-5197888_terraform-terraform-icon-png-clipart.png&f=1&nofb=1&ipt=e8b22dedcfcad4db22a5b397ffd8ff254a9b597c07afdb55584393cda576139e&ipo=images" width="30px" height="30px" style="margin: 0; display: initial"> Terraform
-- [[DevOps/Terraform/HCL-Basics\|HCL-Basics]]
-- [[DevOps/Terraform/Installing-Terraform\|Installing-Terraform]]
-- [[DevOps/Terraform/Terraform-Commands\|Terraform-Commands]]
-- [[DevOps/Terraform/Terraform-Concepts\|Terraform-Concepts]]
-
-### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62a73662223343fbc2207cee.png&f=1&nofb=1&ipt=d8dd8f733bda436736fe0158bf34fe941d65ad38f786219f9571a39bf1412f37&ipo=images" width="30px" height="35px" style="margin: 0; display: initial"> Jenkins
-- [[DevOps/Jenkins/Jenkins-Installation\|Jenkins-Installation]]
-### 📋Projects
-- [[DevOps/Projects/Nginx-Web-Hosting\|Nginx-Web-Hosting]]
-- [[DevOps/Projects/Voting-App\|Voting-App]]
-- [[DevOps/Projects/Voting-app-kubernetes\|Voting-app-kubernetes]]
-- [[DevOps/Projects/Yt-local\|Yt-local]]
-- [[DevOps/Projects/NodeJs App with Woodpecker-CI\|NodeJs App with Woodpecker-CI]]
-### 💼Interview Questions
-- [[Interview-Question/TCS DevOps Interview Questions\|TCS DevOps Interview Questions]]
-- [[Interview-Question/Docker-Interview-Questions-by-ChatGPT\|Docker-Interview-Questions-by-ChatGPT]]
-- [[Interview-Question/DevOps-Interview-Questions\|DevOps-Interview-Questions]]
-- [[Interview-Question/MCQs\|MCQs]]
-### 🗃️Links and Resources
-- [[DevOps/Resources-and-Links\|Resources-and-Links]]
-### 🎋Unsorted
-- [[Unsorted/Error-Journal\|Error-Journal]]
-- [[Unsorted/Nix Package Manager\|Nix Package Manager]]
- 
+| **🛳️Docker**                                                                                                                                                                                                                                                                                             | **<img src="https://duckduckgo.com/i/2ecee014.png" alt="My Image" width="30" height="30" style="margin: 0; display: initial;">Kubernetes** | **<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F519-5197888_terraform-terraform-icon-png-clipart.png&f=1&nofb=1&ipt=e8b22dedcfcad4db22a5b397ffd8ff254a9b597c07afdb55584393cda576139e&ipo=images" width="30px" height="30px" style="margin: 0; display: initial"> Terraform** |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [[DevOps/Docker/Docker Concepts\|Docker Concepts]]<br>- [[DevOps/Docker/Docker Installation\|Docker Installation]]<br>- [[DevOps/Docker/Docker-Commands\|Docker-Commands]]<br>- [[DevOps/Docker/Introduction-to-YAML\|Introduction-to-YAML]]                                                                                                                                                                                                 | - [[DevOps/Kubernetes/Installing-Kubernetes\|Installing-Kubernetes]]<br>- [[DevOps/Kubernetes/Kubernetes-Commands\|Kubernetes-Commands]]<br>- [[DevOps/Kubernetes/Kubernetes-Concepts\|Kubernetes-Concepts]]                                                      | - [[DevOps/Terraform/HCL-Basics\|HCL-Basics]]<br>- [[DevOps/Terraform/Installing-Terraform\|Installing-Terraform]]<br>- [[DevOps/Terraform/Terraform-Commands\|Terraform-Commands]]<br>- [[DevOps/Terraform/Terraform-Concepts\|Terraform-Concepts]]                                                                                                                                                                                                                                   |
+| **<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62a73662223343fbc2207cee.png&f=1&nofb=1&ipt=d8dd8f733bda436736fe0158bf34fe941d65ad38f786219f9571a39bf1412f37&ipo=images" width="30px" height="35px" style="margin: 0; display: initial"> Jenkins** | **📋Projects**                                                                                                                             | **💼Interview Questions**                                                                                                                                                                                                                                                                                                                |
+| - [[DevOps/Jenkins/Jenkins-Installation\|Jenkins-Installation]]                                                                                                                                                                                                                                                                                | - [[DevOps/Projects/Nginx-Web-Hosting\|Nginx-Web-Hosting]]<br>- [[DevOps/Projects/Voting-App\|Voting-App]]<br>- [[DevOps/Projects/Voting-app-kubernetes\|Voting-app-kubernetes]]<br>- [[DevOps/Projects/Yt-local\|Yt-local]]<br>- [[DevOps/Projects/NodeJs App with Woodpecker-CI\|NodeJs App with Woodpecker-CI]]        | - [[Interview-Question/TCS DevOps Interview Questions\|TCS DevOps Interview Questions]]<br>- [[Interview-Question/Docker-Interview-Questions-by-ChatGPT\|Docker-Interview-Questions-by-ChatGPT]]<br>- [[Interview-Question/DevOps-Interview-Questions\|DevOps-Interview-Questions]]<br>- [[Interview-Question/MCQs\|MCQs]]                                        |
+| **🗃️Links and Resources**                                                                                                                                                                                                                                                                                | **🎋Unsorted**                                                                                                                             |                                                                                                                                                                                                                                                                                                                                          |
+| - [[DevOps/Resources-and-Links\|Resources-and-Links]]                                                                                                                                                                                                                                                                                 | - [[Unsorted/Error-Journal\|Error-Journal]]<br>- [[Unsorted/Nix Package Manager\|Nix Package Manager]]                                                                                           |                                                                                                                                                                                                                                                                                                                                          |
